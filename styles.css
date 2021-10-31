@@ -1,1 +1,41 @@
+/* font-family: Lora, open-sans
+  font-family: Montserrat, sans-serif */
+img {
+  width: 100%;
+}
 
+.img-wrapper {
+  width: 100%;
+}
+
+.caption {
+  color: grey;
+  margin-top: 0px;
+  font-family: Monsserrat, sans-serif;
+}
+
+h1, h4, h5 {
+  font-family: Monsserrat, sans-serif;
+}
+
+#content {
+  margin: 0px auto;
+  width: 75%;
+}
+
+body {
+  font-family: Lora, open-sans;
+}
+
+h4 {
+  font-style: italic;
+}
+
+blockquote {
+  border-left: 3px solid red;
+  font-weight: bold;
+  padding-left: 8px;
+  margin-top: 30px;
+  letter-spacing: 1px;
+  background-color: #fff2f2
+}
